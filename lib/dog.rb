@@ -11,7 +11,7 @@ end
 fido = Dog.new 
 fido.name = "fido"
 
-puts fido.name
+puts fido
 
 class Dog
   def bark 
