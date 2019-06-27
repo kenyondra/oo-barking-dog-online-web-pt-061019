@@ -15,4 +15,4 @@ puts fido.name
 
 class Dog
   def bark 
-    puts "woof"
+    puts "woof!"
